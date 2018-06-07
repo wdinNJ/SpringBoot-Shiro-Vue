@@ -1,7 +1,7 @@
 <template>
   <div class="dashboard-container">
-    <a href="https://github.com/Heeexy/SpringBoot-Shiro-Vue" target="_blank"><img style="margin: 40px"
-      src="http://ots7yt7am.bkt.clouddn.com/file/github.png"></a>
+    <a href="https://map.baidu.com/" target="_blank"><img style="margin: 40px"
+      src="https://www.baidu.com/img/xinshouye_1aa582c0b96d57852497a8bbc4345f15.png"></a>
   </div>
 </template>
 <script>
